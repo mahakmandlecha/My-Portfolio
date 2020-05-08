@@ -373,6 +373,16 @@ section {
 .about .content .txt .info .list p {
   margin: 0;
 }
+@media (max-width: 540px) {
+  .mail{
+    max-width: 100%;
+    overflow:scroll;
+  }
+  .web{
+    max-width: 100%;
+    overflow:scroll;
+  }
+}
 
 /*--------------------------------------------------------------# Skills--------------------------------------------------------------*/
 .skills .progress {
