@@ -1,0 +1,198 @@
+﻿GS_Logo.png 
+
+	Mahak Mandlecha
+UG IV Year
+SGSITS, Indore
+D.O.B.: 19 Nov 2000
+Email ID: mahakmandlecha04@gmail.com
+	Enrollment No.: 0801CS181035
+Department: Computer Science Engineering
+Gender: Female 
+Specialization: None
+Mobile: +91 7000869565
+	
+
+  
+
+Degree / Certificate
+	University / Board
+	Institute / School
+	Year of Passing
+	Percentage
+	Graduation (B.Tech)
+	R.G.P.V., Bhopal
+	S.G.S.I.T.S., Indore
+	2022
+	88.2
+	12th
+	C.B.S.E., New Delhi
+	Jawahar Navodaya Vidhyalaya, Multhan
+	2017
+	93.2
+	10th
+	C.B.S.E., New Delhi
+	Jawahar Navodaya Vidhyalaya, Multhan
+	2015
+	95
+	
+
+Scholastic Achievements
+  
+
+* Recipient of Grace Hopper Celebration(GHC) scholarship by AnitaB.org.
+* Recipient of WeTech Goldman Sachs Global Mentorship Program Award 2021.
+* Under top 5 percentile out of 892 in DBMS course by IIT Kharagpur on NPTEL.
+* Smart India Hackathon Finalist under the Department of Science and Technology(PR424).
+* Successfully completed Programming in Java  course by IIT Kharagpur on NPTEL.
+* Received Scholarship under Mukhya Mantri Medhavi Yojana.
+* Selected as the only student to take part in the Regional Science Congress.
+* Received Letter of appreciation from MHRD Minister, India for scoring 10 CGPA.
+	       Jun’2021
+      Mar’2021
+      Mar’2021
+Jan’ 2020
+Dec’ 2019
+Jul’ 2018
+Nov’ 2015
+Aug’ 2015
+	
+
+Work Experience
+  
+
+Technology Intern at DBOI Global Services Private Limited 
+	        May’2021-July’2021
+	* Developed the backend server with Spring Boot, involving different layers of the application including Model, Repository, Controller, Service.
+* Involved in creating, designing the database, and connecting it with MySQL and Oracle SQL.
+* Worked on enhancing the UI of the application using ReactJs which interacts with RESTful services at the backend.
+* Developed JUnit test cases for testing the business services and carried out bug fixing by rigorous testing using JUnit and Mockito.
+Front End Development Intern at Learn From Home 
+	      Apr’2020-May’2020
+	* Voluntarily helped a not-yet-funded start-up company to design and develop the frontend for its website from scratch.
+* Used Bootstrap framework and Javascript to create responsive and dynamic web pages. 
+* Made the FAQ, contact us, connection, and help pages for the website.
+
+
+Academic Projects
+  
+
+ Plasma Donor Connector System
+Mrs. Ritambhara Patidar, Computer Science Engineering  Dept.
+	  Apr’2021
+S.G.S.I.T.S., Indore
+	* Built a user-friendly app that connects plasma donors and the person who is in need of that.  
+* Used Google Maps and News API to show nearby donors and the latest news related to Covid-19 respectively.
+* All the available donors along with their phone number and blood group are shown in Google Maps as well as in the form of a list to search and contact donors easily and efficiently.
+* Technology Used: Flutter, Firebase, Google Maps API, News API.
+
+
+Technical Projects
+  
+
+WeCare: A Women Safety Application
+	May’2021
+	* It works in two modes: Emergency and Safe Mode. The emergency mode has features of sending a text with location to emergency contact, call emergency/women helpline, fake call, and play recorded call or siren. The safe mode has features of learning self-defense through embedded youtube videos, and safety tips.
+* Technology Used: Flutter, Firebase, Google Maps API.
+ AgriSmart 
+	                     May’2020-Aug’2020
+	* Project selected for Smart India Hackathon 2020 finals.
+* Designed a platform where farmers and transporters can connect to each other. The main aim of this is to include Truck pooling, to reduce carbon emission, and also increase the daily wages of the transporter.
+* Has features of offline mode, local notifications, truck booking.
+
+
+
+
+
+
+
+
+
+
+Online Coding and Collaboration Platforms
+  
+
+Platform
+	Handle
+	Link
+	Github
+	mahakmandlecha
+	https://github.com/mahakmandlecha
+	HackerRank
+	Mahak  19
+	https://www.hackerrank.com/Mahak  19
+	Codechef
+	mahak  1911
+	https://www.codechef.com/users/mahak  1911
+	LeetCode
+	mahak_19
+	https://leetcode.com/mahak_19/
+	                
+                Online PortFolio: https://mahakmandlecha.github.io/My-Portfolio/
+
+
+Platforms Worked
+  
+
+* Operating Systems 
+	:
+	Windows, Ubuntu
+	* Programming Skills
+	:
+	Java, C
+	* Database
+	:
+	MySQL
+	* Web Development
+	:
+	HTML5/CSS, JavaScript, ReactJs
+	* App Development
+	:
+	Flutter
+	* Framework
+	:
+	Spring Boot, Bootstrap
+	
+
+Courses Undertaken                
+
+
+* Analysis and Design of Algorithms
+	* Flutter Development Bootcamp#
+	* Computer Architecture
+	* Programming in Java#
+	* Database Management System
+	* Object-Oriented Programming 
+	* Data Structures
+	* Operating Systems
+	* Design Thinking
+	* Software Engineering
+	* Discrete Structures
+	* Theory of Computation
+	 # - Courses Done Online  
+
+
+Positions of Responsibility
+  
+
+Beta Microsoft Learn Student Ambassadors                                                                                                 Aug’2020-Present
+* Part of a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. 
+Mentor at GirlScript Foundation                                                                                                                 Jun’2020-Aug’2020
+* Mentored 20 students in learning Java programming language.
+* Responsible for guiding and providing a learning path to them. Scheduled weekly meeting for checking their progress.
+Head of Design at Club CodeFoster                                                                                                                 Jul’2019-Present
+* Working with a team of 30 enthusiastic members.
+* Responsible for organizing competitions, seminars, and workshops on various technologies to enrich the coding and development environment in the college.
+	Extracurricular Activities
+  
+  
+
+HackDTU 4.0 Hackathon                                                                                                                                              Mar’2021
+* Participated in a team of 2 members in a 24-hour national-level hackathon organized by DTU.
+*  Built an app aiming for women safely with on-tap protection.
+Orientation                                                                                                                                                                      Aug’2019
+* Organized an orientation session for first-year students to guide them about their academic and overall 
+development.
+Hammer throw                                                                                                                                                                 Dec’2016
+* National level player in hammer throw (Athletics).   
+Youth parliament                                                                                                                                                            Aug’2016
+* Participated in a youth parliament organized by JNV Hoshangabad and acted as a finance minister.
